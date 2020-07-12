@@ -1,7 +1,7 @@
 # Hello There!
 #### Thank you for visiting at part of my world! <img alt="Love you gif" src="https://media.giphy.com/media/TamGVAGxDTYDNt3dpn/giphy.gif" width="48" />
 
-I'm Ramil Sagolsem, a Software Enthusiast working for a Telecom Software Solution Provider! I'm from the [Kangleipak](https://en.wikipedia.org/wiki/Manipur_(princely_state)) and currently in Brazil exploring the sunshine country since 2014. I love to code in java and do web development and I'm keen about Machine Learning and Cloud Computing.
+I'm Ramil Sagolsem, a Software Enthusiast working for a Telecom Software Solution Provider! I'm from the [Kangleipak](https://en.wikipedia.org/wiki/Manipur_(princely_state)) and currently in Brazil exploring the sunshine country since 2014. I love to code in java and do web development and I'm also keen about Machine Learning and Cloud Computing.
 
 <img alt="Gif of Travelling" src="https://media.giphy.com/media/lXC2gmHf2ypUs/giphy.gif" width="128" /> 
 
