@@ -11,7 +11,7 @@ I'm also obsessed with exploring places.
 
 ## ☕ How to reach me
 :flamingo: @ me on [Twitter](https://twitter.com/ramilsagolsem) or [Linkedin](https://www.linkedin.com/in/ramil-sagolsem-82384613/)\
-:face: socialize @ [Facebook](https://www.facebook.com/ramilsagolsem)\
+:keyboard: socialize @ [Facebook](https://www.facebook.com/ramilsagolsem)\
 :camera_flash: please give thumbs up @ [Instagram](https://www.instagram.com/ramilsagolsem/), I love travel and photography!
 
 <!--
