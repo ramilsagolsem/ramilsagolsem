@@ -1,17 +1,18 @@
 # Hello There!
 #### Thank you for visiting at part of my world! <img alt="Love you gif" src="https://media.giphy.com/media/TamGVAGxDTYDNt3dpn/giphy.gif" width="48" />
 
-I'm Ramil Sagolsem, a Software Enthusiast working for a Telecom Software Solution Provider! I'm from the [Kangleipak](https://en.wikipedia.org/wiki/Manipur_(princely_state)) and currently in Brazil exploring the sunshine since 2014. I love Android and mobile development and I'm currently developing my currency converter app [Exploratu](https://github.com/izadiegizabal/exploratu/) that uses OCR to show the conversions directly in the camera! :airplane:	:euro: :camera_flash:
+I'm Ramil Sagolsem, a Software Enthusiast working for a Telecom Software Solution Provider! I'm from the [Kangleipak](https://en.wikipedia.org/wiki/Manipur_(princely_state)) and currently in Brazil exploring the sunshine country since 2014. I love to code in java and do web development and I'm keen about Machine Learning and Cloud Computing.
 
-<img alt="Gif of a cute shiba" src="https://data.whicdn.com/images/254520507/original.gif" width="128" /> 
+<https://media.giphy.com/media/lXC2gmHf2ypUs/giphy.gif" /> 
 
-I'm also obsessed with Shiba-Inu, yes, equally important.
+I'm also obsessed with exploring places.
 
 
 
 ## ☕ How to reach me
 :flamingo: @ me on [Twitter](https://twitter.com/ramilsagolsem) or [Linkedin](https://www.linkedin.com/in/ramil-sagolsem-82384613/)\
-:camera_flash: Please give thumbs up @ [Instagram](https://www.instagram.com/ramilsagolsem/), I love travel and photography!
+:face: socialize @ [Facebook](https://www.facebook.com/ramilsagolsem)\
+:camera_flash: please give thumbs up @ [Instagram](https://www.instagram.com/ramilsagolsem/), I love travel and photography!
 
 <!--
 **ramilsagolsem/ramilsagolsem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
