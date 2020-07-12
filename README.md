@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, my anme Ramil Sagolsem and I am a developer
+
+## About me
 
 <!--
 **ramilsagolsem/ramilsagolsem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
