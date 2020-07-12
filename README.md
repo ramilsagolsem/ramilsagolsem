@@ -3,7 +3,7 @@
 
 I'm Ramil Sagolsem, a Software Enthusiast working for a Telecom Software Solution Provider! I'm from the [Kangleipak](https://en.wikipedia.org/wiki/Manipur_(princely_state)) and currently in Brazil exploring the sunshine country since 2014. I love to code in java and do web development and I'm keen about Machine Learning and Cloud Computing.
 
-<https://media.giphy.com/media/lXC2gmHf2ypUs/giphy.gif" /> 
+<img alt="Gif of Travelling" src="https://media.giphy.com/media/lXC2gmHf2ypUs/giphy.gif" width="128" /> 
 
 I'm also obsessed with exploring places.
 
