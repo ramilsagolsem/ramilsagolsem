@@ -1,4 +1,4 @@
-# Hi, my anme Ramil Sagolsem and I am a developer
+# Hi, my name is Ramil Sagolsem and I am a developer
 
 ## About me
 
